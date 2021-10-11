@@ -1,0 +1,16 @@
+body{
+    background-color: #e3aaae;
+    color: #000;
+}
+
+.text{
+    font-size: 30px;
+    text-align: center;
+}
+
+.cont{
+    border: 2px solid #fff;
+    width: 275px;
+    margin-left: 8%;
+    font-size: 20px;
+}

@@ -1,0 +1,14 @@
+body{
+    background-color: #e3aaae;
+    color: #000;
+}
+
+.img{
+    text-align: right;
+    margin-right: 15px;
+}
+.text{
+    text-align: left;
+    font-size: 22px;
+   
+}
